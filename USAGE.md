@@ -12,7 +12,7 @@ Here's an example `$WAKATIME_HOME/.wakatime.cfg` config file with all available 
 ```ini
 [settings]
 debug = false
-api_key = your-api-key
+api_key = waka_da0a3f72-45e0-4bee-8b16-9e0b599bca3a
 api_key_vault_cmd = any shell command to get your api key from vault
 api_url = https://api.wakatime.com/api/v1
 hide_file_names = false
